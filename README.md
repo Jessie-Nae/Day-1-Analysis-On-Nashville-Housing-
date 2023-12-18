@@ -1,0 +1,3 @@
+## 7 DAYS OF ANALYZING DATA WITH JESS
+# Day19(Nashville Housing Analysis)
+# GOAL : HONE MY SKILL
